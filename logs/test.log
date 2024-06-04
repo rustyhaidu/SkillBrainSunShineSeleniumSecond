@@ -1,0 +1,8 @@
+2024-06-04 20:17:16 DEBUG org.testng.TestNG - suiteXmlPath: "/Users/claudiu.haidu/Library/Caches/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml"
+2024-06-04 20:17:16 WARN  org.testng.internal.Configuration - Detected a static method [org.example.BasicTests.configureLogger()]. Static configuration methods can cause unexpected behavior.
+2024-06-04 20:17:16 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/claudiu.haidu/Library/Caches/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml
+
+2024-06-04 20:17:16 INFO  org.example.logger.LoggerUtils - Start Tests:
+2024-06-04 20:17:18 INFO  org.example.logger.LoggerUtils - Go to Site: https://www.globalsqa.com/demo-site
+2024-06-04 20:17:20 INFO  org.example.logger.LoggerUtils - Start test
